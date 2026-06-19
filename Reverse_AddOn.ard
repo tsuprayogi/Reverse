@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="ThinkTank" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Reverse_Grouping" ExtVersion="1.0.3" Contdata="" Partner="ThinkTank" DBType="HANA" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="10.00.100" To="10.00.500" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\bin\Debug\Reverse_AddOn.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Reverse_AddOn.b1s">
+              <Actions />
+            </File>
+            <File FileName="Reverse_AddOn.exe">
+              <Actions />
+            </File>
+            <File FileName="testSapStudio.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Reverse_AddOn.b1s">
+              <Actions />
+            </File>
+            <File FileName="Reverse_AddOn.exe">
+              <Actions />
+            </File>
+            <File FileName="testSapStudio.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\bin\Debug\Reverse_AddOn.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Reverse_AddOn.b1s">
+              <Actions />
+            </File>
+            <File FileName="Reverse_AddOn.exe">
+              <Actions />
+            </File>
+            <File FileName="testSapStudio.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Reverse_AddOn.b1s">
+              <Actions />
+            </File>
+            <File FileName="Reverse_AddOn.exe">
+              <Actions />
+            </File>
+            <File FileName="testSapStudio.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

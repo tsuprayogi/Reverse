@@ -1,0 +1,12 @@
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\bin\Debug\Reverse_AddOn.exe.config
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\bin\Debug\Reverse_AddOn.exe
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\bin\Debug\Reverse_AddOn.pdb
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.csprojAssemblyReference.cache
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.csproj.ResolveComReference.cache
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.Properties.Resources.resources
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.csproj.GenerateResource.cache
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.csproj.CoreCompileInputs.cache
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.exe
+D:\Repos\UNIQUIP\Reverse_AddOn\Reverse_AddOn\obj\Debug\Reverse_AddOn.pdb
